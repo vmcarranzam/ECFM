@@ -8,7 +8,7 @@ Physics kart is basically a set of sensors mounted on a PCB and case with wheels
 - For MQTT protocol implementation: https://github.com/knolleary/pubsubclient
 - For WiFi connection handling:https://github.com/espressif/arduino-esp32/tree/master/libraries/WiFi
 
-## List of sensor modules:
+## List of sensor modules and their respective libraries
 - MPU6050 module to measure acceleration and orientation in XYZ (Library used: https://github.com/tockn/MPU6050_tockn/blob/master/README.md)
 - 20 Kg Load Cell with HX711 module to measure frontal collisions (Library used: https://github.com/bogde/HX711)
 - Optical wheel based rotary encoder to measure angular speed and position
