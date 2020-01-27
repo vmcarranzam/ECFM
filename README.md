@@ -12,3 +12,7 @@ Physics kart is basically a set of sensors mounted on a PCB and case with wheels
 - MPU6050 module to measure acceleration and orientation in XYZ (Library used: https://github.com/tockn/MPU6050_tockn/blob/master/README.md)
 - 20 Kg Load Cell with HX711 module to measure frontal collisions (Library used: https://github.com/bogde/HX711)
 - Optical wheel based rotary encoder to measure angular speed and position
+
+## Last updates
+
+Uploaded PCB design files for the first prototype. Created using KiCAD.
